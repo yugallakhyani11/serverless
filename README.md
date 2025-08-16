@@ -52,3 +52,5 @@ Use Terraform to manage the deployment of this Lambda function and its associate
 
 
 npm install @sendgrid/mail pg
+
+Author: Yugal Lakhyani
